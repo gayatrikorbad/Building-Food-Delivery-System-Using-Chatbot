@@ -5,7 +5,7 @@ Build a chatbot for food orders online delivery using Google's Dialogflow ES. Th
 1) New Order
 2) Track Order
 
-1) New Order: Sample Conversation
+3) New Order: Sample Conversation
 
 ```
 Bot: How can I help you? You can say things like (1) New Order (2) Track Order
